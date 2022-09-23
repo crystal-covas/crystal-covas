@@ -2,7 +2,8 @@ Hi! こんにちは！:wave:
 
 I'm a budding data scientist stationed in Tokyo :tokyo_tower:
 
-- I'm currently learning Python and machine learning :computer:
+What I'm currently up to: 
+- learning Python and machine learning :computer:
 
 My hobbies outside of coding include: 
 - weight lifting
