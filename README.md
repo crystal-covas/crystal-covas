@@ -1,11 +1,17 @@
-Hi! こんにちは！:wave:
+# Hi! こんにちは！👋
 
-I'm a budding data scientist stationed in Tokyo :tokyo_tower:
+### I'm a budding data analyst stationed in Tokyo 🗼
 
-What I'm currently up to: 
-- learning Python and machine learning :computer:
+### You can ask me about: 
+- Python 
+- SQL
+- Tableau
 
-My hobbies outside of coding include: 
+### I'm currently learning: 
+- advanced SQL
+
+### My hobbies outside of coding: 
 - weight lifting 🏋️‍♀️
-- reading books on productivity :books:
-- playing video games :video_game:
+- reading books on productivity 📚
+- playing video games 🎮
+- creating art 🎨
