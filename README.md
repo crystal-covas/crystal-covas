@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/crystal-covas/crystal-covas/blob/main/banner-github.png?raw=true)
 <h1 align="center">👋 Hi! I'm a data analyst living in the US. </h1>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5664c2f3e4b0957c43aa14f4/1627261945738-FO5OXHZT2RLNBKAFC2LD/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/crystal-covas/crystal-covas/blob/main/data.webp">
 
 
 ### What I love about data analysis:
